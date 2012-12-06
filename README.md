@@ -1,12 +1,12 @@
-Freetronics 315/433/915MHz Receiver Shield
+Freetronics 315MHz / 433MHz Receiver Shield
 ===========================================
-Copyright 2010 Freetronics Pty Ltd  
+Copyright 2011 Freetronics Pty Ltd  
 Freetronics site:  <www.freetronics.com>  
 Freetronics email: <info@freetronics.com>  
 
-A general-purpose 315/433/915MHz receiver shield for the Arduino
-Duemilanove microcontroller and other boards based on the same header
-format, such as the Seeeduino and the Arduino Pro.
+A general-purpose 315MHz / 433MHz receiver shield for the Arduino
+and other microcontroller boards based on the same header format, such
+as the Freetronics Eleven.
 
 Includes significant prototyping area using the spare shield area.
 
@@ -25,10 +25,10 @@ Features:
 
 More information is available on our product page at:
 
-  http://www.freetronics.com/receiver-shield
+  http://www.freetronics.com/receiver
 
 The "docs" folder within this repository includes a handy copy of the
-schematic in PDF format and image(s) of the pcb.
+schematic in PDF format and the Getting Started guide.
 
 
 INSTALLATION
